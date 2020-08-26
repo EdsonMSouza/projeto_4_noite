@@ -12,7 +12,7 @@
 ## Descrição
 Nesse semestre teremos um novo desafio na construção do nosso Projeto Prático em Sistemas. O projeto proposto é a criação de um **Sistema Móvel (APP Android)** ou um **Protótipo de Projeto**(1), utilizando os conceitos aprendidos na disciplina de Sistemas Móveis (Android) e nas demais disciplinas do semestre. O projeto não restringe a utilização de outras tecnologias, mesmo que não tenham sido abordadas no curso.
 
-    (1) - No caso de entrega de **Protótipo de Projeto** do APP, deverão ser descritas **todas** as etapas do APP, bem como o detalhamento visual e descritivo de cada tela (View), como se estivesse sendo desenvolvido (programado) o aplicativo. 
+* No caso de entrega de **Protótipo de Projeto** do APP, deverão ser descritas **todas** as etapas do APP, bem como o detalhamento visual e descritivo de cada tela (View), como se estivesse sendo desenvolvido (programado) o aplicativo. 
 
 Como todo projeto, vocês trabalharão em grupo e terão uma série de atividades a serem cumpridas pelos membros do grupo, em datas específicas que serão fornecidas pelo professor.
 
