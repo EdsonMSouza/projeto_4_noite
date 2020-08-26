@@ -45,3 +45,6 @@ Farei as correções de forma *online*, acessando diretamente o documento no Goo
 
 + **30/09** - **Plano Operacional**
 	+ Primeira versão com a navegação das telas
+
+**ENTREGA FINAL**
++ 18/11/2020 - Documentação mais o aplicativo funcionando
