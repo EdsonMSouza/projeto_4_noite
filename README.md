@@ -21,7 +21,7 @@ O grupo deverá criar um ambiente no **Google Drive** e compartilhar o documento
 Farei as correções de forma *online*, acessando diretamente o documento no Google Drive pelo link. Portanto, não enviem documentos do projeto por e-mail.
 
 ## Quantidade de alunos por grupo
-+ Os grupos devem ser formados entre cinco (10) e quinze(15) alunos.
++ Os grupos devem ser formados entre dez (10) e quinze(15) alunos.
 + Trabalhos individuais não são recomendados devido a a complexidade e prazo para a entrega.
 
 ## Modelo do Projeto
@@ -47,4 +47,4 @@ Farei as correções de forma *online*, acessando diretamente o documento no Goo
 	+ Primeira versão com a navegação das telas
 
 **ENTREGA FINAL**
-+ 18/11/2020 - Documentação mais o aplicativo funcionando
++ **18/11/2020** - Documentação mais o aplicativo funcionando
