@@ -16,7 +16,7 @@ Nesse semestre teremos um novo desafio na construção do nosso Projeto Prático
 
 Como todo projeto, vocês trabalharão em grupo e terão uma série de atividades a serem cumpridas pelos membros do grupo, em datas específicas que serão fornecidas pelo professor.
 
-O grupo deverá criar um ambiente no **Google Drive** e compartilhar o documento disponível acima [Modelo de Projeto](https://github.com/EdsonMSouza/projeto_4_noite/blob/master/modelo_para_o_projeto.docx) comigo para acompanhamento, realizando as implementações solicitadas para as datas de entrega que estão descritas no **Calendário de Entregas** abaixo.
+O grupo deverá criar um ambiente no **Google Drive** e compartilhar o documento [Modelo de Projeto](https://github.com/EdsonMSouza/projeto_4_noite/blob/master/modelo_para_o_projeto.docx) comigo para acompanhamento, realizando as implementações solicitadas para as datas de entrega que estão descritas no **Calendário de Entregas** abaixo.
 
 Farei as correções de forma *online*, acessando diretamente o documento no Google Drive pelo link. Portanto, não enviem documentos do projeto por e-mail.
 
@@ -25,7 +25,7 @@ Farei as correções de forma *online*, acessando diretamente o documento no Goo
 + Trabalhos individuais não são recomendados devido a a complexidade e prazo para a entrega.
 
 ## Modelo do Projeto
-+ [Modelo do Projeto](https://github.com/EdsonMSouza/projeto_4_noite/blob/master/modelo_para_o_projeto.docx)
++ [Modelo do Projeto - Word (.docx)](https://github.com/EdsonMSouza/projeto_4_noite/blob/master/modelo_para_o_projeto.docx)
 
 ## Calendário de Entregas de Tarefas
 + **02/09** - **Introdução**
